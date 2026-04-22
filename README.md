@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://path-to-your-uploaded-image/ropasecurity-banner.png" alt="RopaSecurity Banner" width="100%">
+</div>
+
+
+
 # Hi, I'm Rose Pavia 👋 
 
 ### Information Security Analyst | Cloud Solutions & Security Automation Specialist
