@@ -13,14 +13,14 @@ I am a performance-driven security professional with over **14 years of experien
 ---
 
 ### 🛡️ What I Bring to the Table
-- Global Security Leadership:** Managed 200+ high-severity incident response calls with a 100% resolution rate.
-- Infrastructure Hardening:** Expert in Windows Server management, Active Directory, and Azure RBAC implementation.
+- Global Security Leadership: Managed 200+ high-severity incident response calls with a 100% resolution rate.
+- Infrastructure Hardening: Expert in Windows Server management, Active Directory, and Azure RBAC implementation.
 - Security Automation: I specialize in using PowerShell to automate security workflows, reduce response times, and streamline operational efficiency.
-- Strategic Communication:** Skilled at delivering high-quality analytical briefings to both technical stakeholders and senior leadership.
+- Strategic Communication: Skilled at delivering high-quality analytical briefings to both technical stakeholders and senior leadership.
 
 ### 🛠️ Technical Arsenal
 - Cloud: Azure (AZ-900), AWS Cloud Practitioner.
-- Scripting & Automation:** PowerShell (Advanced), Basic Python.
+- Scripting & Automation: PowerShell (Advanced), Basic Python.
 - Systems: Windows Server (DNS/DHCP), Hyper-V, Linux.
 - Tools: SIEM monitoring, Microsoft Copilot/Gemini, ASANA, QuickSight.
 
